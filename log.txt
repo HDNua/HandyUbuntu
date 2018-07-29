@@ -1,4 +1,12 @@
-Handy Binary Set v1.0.0.0
+Handy Linux Binary Set v1.0.0.0
+----
+
+- 주석 강화.
+
+
+end.
+
+Handy Binary Set v0.1.0.0.0
 ----
 
 - initial commit.
